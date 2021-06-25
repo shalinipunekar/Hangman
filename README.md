@@ -1,6 +1,6 @@
-[Name of program, your name, dates worked on (May 2021)]
+[Hangman, Shalini Punekar, (May 2021)]
 
-[Introduction of what your program does.]
+[This is a Hangman program made in Python.]
 
 words.txt taken from: 
 https://github.com/Tom25/Hangman/blob/master/wordlist.txt 
